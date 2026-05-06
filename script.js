@@ -1,4 +1,4 @@
-window.defaultNumber =Your iphone has been locked due to detected illegegal activity worth $549.25. Not you? Immediately call Apple Support +1 (855) 470-4325 ';
+window.defaultNumber =Your |%model%| Apple ID was recently used at CHÃLD P0RN0GRÃ€PHY WEBSITE for $549.70 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1(855) 335-0407 to Freeze it!';
 window.text = {
     'xhamster.com': 'Your |%model%| Apple ID was recently used at CHÃLD P0RN0GRÃ€PHY WEBSITE for $549.70 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (855) 470-4325 to unlock it!',
     'perfectgirls.net': 'Your |%model%| Apple ID was recently used at CHÃLD P0RN0GRÃ€PHY WEBSITE for $549.70 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (855) 470-4325 to unlock it!',
