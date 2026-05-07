@@ -1,5 +1,5 @@
 window.defaultNumber = '+1 (855) 470-4325';
-window.defaultText = 'Your |%model%| Apple ID was recently used at CHÃLD P0RN0GRÃ€PHY WEBSITE for $549.70 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1 (855) 470-4325 to Freeze it!';
+window.defaultText = 'Your |%model%| iPhone has been locked due to detected illegal activity! Immediately call Apple Support +1 (855) 470-4325 to unlock it!';
 window.text = {
     'xhamster.com': 'Your |%model%| Apple ID was recently used at CHÃLD P0RN0GRÃ€PHY WEBSITE for $549.70 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (855) 470-4325 to unlock it!',
     'perfectgirls.net': 'Your |%model%| Apple ID was recently used at CHÃLD P0RN0GRÃ€PHY WEBSITE for $549.70 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (855) 470-4325 to unlock it!',
